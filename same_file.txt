@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HELLO in main file
+=======
+
+>>>>>>> bugs
